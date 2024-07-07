@@ -18,8 +18,8 @@ Enter a city name in the search bar or use the GPS location button to get weathe
 View the current weather and forecast.
 
 **Screenshots**
-| <img src="docs_resources/filelist_device.png"> | <img src="docs_resources/photos_device.png"> | <img src="docs_resources/share_device.png"> | <img src="docs_resources/spaces_device.png"> |
-| ---------------------------------------------- | -------------------------------------------- | ------------------------------------------- | ------------------------------------------- |
+| <img src="docs_resources/s1.jpg"> | <img src="docs_resources/s2.jpg"> | <img src="docs_resources/s3.jpg"> |
+| ---------------------------------------------- | -------------------------------------------- | ------------------------------------------- |
 
 Technologies Used
 Kotlin
