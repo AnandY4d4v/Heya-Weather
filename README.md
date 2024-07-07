@@ -1,23 +1,25 @@
 Weather App
 
-Introduction
+**Introduction**
 Welcome to the Weather App! This application provides real-time weather information for any location worldwide. Stay updated with the latest weather conditions, forecasts, and more.
 
-Features
-Real-time weather updates
-7-day weather forecast
-Search for weather by city or GPS location
-Detailed weather information including temperature, humidity, wind speed, and more
-User-friendly and responsive design
+
+**Features**
+  1. Real-time weather updates
+  2. 7-day weather forecast
+  3. Search for weather by city or GPS location
+  4. Detailed weather information including temperature, humidity, wind speed, and more
+5  .User-friendly and responsive design
 Installation
-To install and run the Weather App on your Android device, follow these steps:
 
 Usage
 Open the app on your Android device.
 Enter a city name in the search bar or use the GPS location button to get weather information for your current location.
 View the current weather and forecast.
-Screenshots
 
+**Screenshots**
+| <img src="docs_resources/filelist_device.png"> | <img src="docs_resources/photos_device.png"> | <img src="docs_resources/share_device.png"> | <img src="docs_resources/spaces_device.png"> |
+| ---------------------------------------------- | -------------------------------------------- | ------------------------------------------- | ------------------------------------------- |
 
 Technologies Used
 Kotlin
